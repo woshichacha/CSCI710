@@ -14,6 +14,6 @@ Where algorithm should be one of the following: `bfs` (Breadth-first search), `p
 
 
 
-# HyGraph Author
+# About HyGraph
 [1] Heldens S., Varbanescu A. L., Iosup A., HyGraph: Fast Graph Processing on Hybrid CPU-GPU Platforms by Dynamic Load-Balancing, 2016. Manuscript submitted for publication.
 
